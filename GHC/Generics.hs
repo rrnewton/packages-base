@@ -1,4 +1,4 @@
-{-# LANGUAGE Trustworthy            #-}
+{-# LANGUAGE Unsafe                 #-}
 {-# LANGUAGE CPP                    #-}
 {-# LANGUAGE NoImplicitPrelude      #-}
 {-# LANGUAGE TypeSynonymInstances   #-}

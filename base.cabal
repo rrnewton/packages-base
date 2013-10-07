@@ -194,6 +194,7 @@ Library
         GHC.ForeignPtr
         GHC.GHCi
         GHC.Generics
+        GHC.Generics.Safe
         GHC.IO
         GHC.IO.Buffer
         GHC.IO.BufferedIO
